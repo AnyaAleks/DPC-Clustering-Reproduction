@@ -40,7 +40,7 @@ DPC-Clustering-Reproduction/
 
 ### Installation
 ```bash
-git clone https://github.com/yourusername/DPC-Clustering-Reproduction.git
+git clone ...
 cd DPC-Clustering-Reproduction
 pip install -r requirements.txt
 ```
