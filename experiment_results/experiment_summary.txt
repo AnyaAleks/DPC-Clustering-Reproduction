@@ -1,0 +1,15 @@
+DPC CLUSTERING EXPERIMENT SUMMARY
+==================================================
+
+Paper: 'Clustering by fast search and find of density peaks'
+Authors: Alex Rodriguez and Alessandro Laio
+Journal: Science 344, 1492 (2014)
+
+Experiments conducted:
+1. Figure 2: Synthetic data with 5 density peaks
+2. Figure 3A: Two crescent moons
+3. Figure 3B: 15 overlapping clusters
+4. Figure 3C: Three concentric circles
+5. Figure 3D: Three curved clusters
+
+Total plots generated: 16
